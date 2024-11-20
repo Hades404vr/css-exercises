@@ -1,0 +1,19 @@
+/* style.css */
+
+p {
+    background: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+#second {
+    font-size: 36px;
+    color: blue;
+}
+#cooler {
+    font-size: 24px;
+}
+#third {
+    font-size: 24px;
+    background: lightgreen;
+    font-weight: 900;
+}
